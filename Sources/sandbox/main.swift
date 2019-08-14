@@ -1,6 +1,6 @@
 import Foundation
 
-import ark_swift
+import ark
 
 class MyGame: IApp {
     init() {
